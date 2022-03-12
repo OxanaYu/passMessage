@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: #b6d2e4;
+}
+
+fieldset {
+  margin: 200px auto;
+  padding-top: 10px;
+  width: 60%;
+  background-color: azure;
+}
+
+button {
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+
+
